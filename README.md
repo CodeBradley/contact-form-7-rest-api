@@ -23,6 +23,5 @@ PATCH /wp-json/wpcf7/v1/forms/(?P<id>[\d]+)
 ```
 
 **Delete Form:**
-```
-TODO
-```
+
+Not Currently Implemented
