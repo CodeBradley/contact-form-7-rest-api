@@ -1,4 +1,4 @@
-#Deprecated: 
+# Deprecated: 
 Please see https://github.com/ohze/wp-contact-form-7/blob/master/includes/rest-api.php
 
 ---
