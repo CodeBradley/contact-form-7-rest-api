@@ -1,3 +1,7 @@
+#Deprecated: 
+Please see https://github.com/ohze/wp-contact-form-7/blob/master/includes/rest-api.php
+
+---
 # Contact Form 7 REST API Endpoints
 Contact Form 7 endpoints for the WP REST API v2
 
