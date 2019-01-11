@@ -1,5 +1,9 @@
 # Deprecated: 
-The REST API endpoints are now integrated directly into the Contact Form 7 plugin. Please see https://github.com/ohze/wp-contact-form-7/blob/master/includes/rest-api.php
+
+Important Note: Endpoints are now included with the Contact Form 7 plugin as of version 4.7. I only recommend working with this code if you are using an older version of Contact Form 7.
+
+Here's the changelog: https://contactform7.com/2017/03/03/contact-form-7-47/
+Here's the code: https://github.com/ohze/wp-contact-form-7/blob/master/includes/rest-api.php
 
 ---
 # Contact Form 7 REST API Endpoints
